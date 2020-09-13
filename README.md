@@ -1,12 +1,10 @@
 # keylogger
 
-[+] once you run it will go to any web page you made it to and in my case it will go to gmail.com and also it will capture all the keys and store them in a specified file 
+[+] run it and it captures all the key until the program terminates which is by presing esc key double times 
 
 NOTE: 
 
 [+] this is only for educational purpose.
-
-[+] it will only work within your pc and you can phish anyone only in your pc.
 
 [+] the module you need for this script are 
 
